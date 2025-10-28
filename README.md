@@ -53,4 +53,4 @@ This project was created to practice event handling, GUI design, and state manag
 ---
 
 ## 🙌 Author
-Built by [Your Name](https://github.com/YOUR-USERNAME) while learning Processing and Java.  
+Built by [Rishi Bhat] while learning Processing and Java.  
