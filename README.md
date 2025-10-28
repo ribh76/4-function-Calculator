@@ -11,12 +11,7 @@ This project was created to practice event handling, GUI design, and state manag
 - Clear (`C`), backspace (`←`), toggle sign (`±`), and percent (`%`)
 - Keyboard input (`0–9`, `+ - * /`, `=`, `Enter`, `C`)
 - Responsive button UI with mouse clicks
-
----
-
-## 🎮 Demo
-![demo](demo.gif)  
-*(Optional — record a short GIF of the calculator running and save it as `demo.gif` in the repo.)*
+- trig functions, logarithmic functions and scientific calculator-like interface
 
 ---
 
@@ -33,12 +28,7 @@ This project was created to practice event handling, GUI design, and state manag
 
 ---
 
-## 📸 Screenshots
-*(Add images here if you want — Processing sketches look great with visuals!)*
-
----
-
-## 🛠 Future Improvements
+## 🛠 10/28/2025 Improvements
 - Add scientific functions (`sin`, `cos`, `tan`, `log`, `√`, etc.)
 - Add memory buttons (`MC/MR/M+/M-`)
 - History panel to view past calculations
